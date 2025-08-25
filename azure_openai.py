@@ -2,7 +2,7 @@
 import requests
 
 # Azure OpenAI details
-AZURE_OPENAI_ENDPOINT = "https://mymai-meq137sa-eastus2.services.ai.azure.com"
+AZURE_OPENAI_ENDPOINT = "https://mymaai-rmeq147sa-eastus2.services.ai.azure.com"
 AZURE_OPENAI_KEY = "YOUR_KEY_HERE"
 DEPLOYMENT_NAME = "gpt-35-turbo"
 
